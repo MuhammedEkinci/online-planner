@@ -1,0 +1,30 @@
+/*---------css for header of the webpage---------*/
+.time-container {
+    width: 100%;
+    text-align: center;
+    border-bottom: solid 4px black;
+}
+
+h1 {
+    font-size: 70px;
+    margin: 10px;
+}
+
+#current-date {
+    font-size: 30px;
+    padding: 40px 0 20px 0;
+    margin-bottom: 20px;
+}
+/*---------end of css for header of the webpage---------*/
+
+.schedule-container {
+    margin: 0 auto;
+    width: 800px;
+    max-width: 80%;
+    padding: 20px;
+}
+
+.time {
+    padding: 10px;
+    border-bottom: solid 1px grey;
+}
