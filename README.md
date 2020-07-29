@@ -10,5 +10,7 @@ If the current time is before your planned time then it will be green
 
 When you save anything you write in the text area it will still display in the textbox
 
+link: https://muhammedekinci.github.io/online-planner/index.html
+
 
 ![](img/webpage.png)
